@@ -1,0 +1,13 @@
+.data2Container {
+    /* display: grid; */
+    display: flex;
+    /* flex-direction: column; */
+    grid-template-columns: repeat(4, 1fr);
+    width: 100%;
+    /* height: 100vh; */
+}
+
+.data2Img {
+    width: 23rem;
+    height: 20rem;
+}

@@ -1,0 +1,18 @@
+.data3Container {
+    /* display: grid; */
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-direction: column; */
+    width: 100%;
+    justify-content: center;
+    gap: 2rem;
+    /* border: 1px solid red; */
+    height: 25rem;
+}
+
+
+
+.data3Img {
+    width: 23rem;
+    /* border: 1px solid red; */
+}
